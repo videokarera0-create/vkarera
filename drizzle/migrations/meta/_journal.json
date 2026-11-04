@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793770596498,
+      "tag": "0000_player_wallets_referrals_admin",
+      "breakpoints": true
+    }
+  ]
+}
